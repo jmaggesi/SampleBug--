@@ -2,7 +2,7 @@
 							SAMPLE BUG
 
 This app maybe shows a little bug in Sproutcore. When the user try in the detailPane
-the inline editing of the ListView seemsit seems that nothing happens. I don't know if 
+the inline editing of the ListView seems that nothing happens. I don't know if 
 is a bug of sproutcore or my mystake.
 
 
